@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "43243582-bead-4325-a716-de7ea2c5a153",
+        "line": 321,
+        "version": 15037,
+        "index": 9608
+      },
+      {
+        "id": "b15faf91-ce73-4883-af90-b0ab87157957",
+        "line": 509,
+        "version": 15037,
+        "index": 16326
+      },
+      {
+        "id": "405a0f41-90b8-412d-9c66-c55146d741d5",
+        "line": 510,
+        "version": 15037,
+        "index": 16438
+      },
+      {
+        "id": "ba171e4e-4444-4e96-9f72-cbad1f588bb5",
+        "line": 512,
+        "version": 15037,
+        "index": 16523
+      },
+      {
+        "id": "c3a919b4-e232-496a-9cc2-cda51bd5ad79",
+        "line": 515,
+        "version": 15037,
+        "index": 16598
+      }
+    ]
+  }
+}
